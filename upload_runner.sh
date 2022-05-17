@@ -1,4 +1,4 @@
-NAME=kjcain/kyler-cain-runner
+NAME=kjcain/kyler-cain-report
 TAG=`date +%Y-%m-%d_%H-%M-%S`
 
 BUILD=../.build
